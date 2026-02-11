@@ -1,0 +1,7 @@
+The following matrix shows the shortest distances between every pair of vertices.
+
+0  |  6  |  10  |  17  |  20
+6  |  0  |  12  |  11  |  14
+10  |  12  |  0  |  12  |  26
+17  |  11  |  12  |  0  |  25
+20  |  14  |  26  |  25  |  0

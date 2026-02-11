@@ -1,0 +1,4 @@
+/home/olinka/CLionProjects/PJC/semestralka/ostasolg/ostasolg_semestralka/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/olinka/CLionProjects/PJC/semestralka/ostasolg/ostasolg_semestralka/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/olinka/CLionProjects/PJC/semestralka/ostasolg/ostasolg_semestralka/cmake-build-debug/CMakeFiles/compare_measurements.dir
+/home/olinka/CLionProjects/PJC/semestralka/ostasolg/ostasolg_semestralka/cmake-build-debug/CMakeFiles/ostasolg_semestralka.dir
