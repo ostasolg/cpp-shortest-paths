@@ -46,7 +46,7 @@ This program prints time consumptions to the console in millisecond units.
 ## _Project building:_
 
 ```
-$ git clone git@gitlab.fel.cvut.cz:ostasolg/b6b36pjc-semestral-work.git
+$ git clone git@github.com:ostasolg/cpp-shortest-paths.git
 $ cd ostasolg
 $ mkdir build
 $ cd build
